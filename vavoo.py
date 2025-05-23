@@ -3,10 +3,10 @@ import json
 import re
 import os
 
-USREPG = ""
-BRANCHEPG = ""
-MFPLINK = ""     # non mettere lo / finale al link
-MFPPSW = ""
+USREPG = "firexs909"
+BRANCHEPG = "Yo"
+MFPLINK = "https://mfp.mac4.duckdns.org"     # non mettere lo / finale al link
+MFPPSW = "mfp"
 
 
 PROXY = f"{MFPLINK}/proxy/hls/manifest.m3u8?api_password={MFPPSW}&d="
