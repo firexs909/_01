@@ -11,7 +11,7 @@ import html
 from urllib.parse import urljoin
 
 MFPLINK = "https://mfp.mac4.duckdns.org"
-MFPPSW = "mfp"
+MFPPSW = ""
 
 # Funzioni dal tuo mpd_decoder.py
 def extract_mpd_link_from_page(url):
