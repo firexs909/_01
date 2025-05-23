@@ -10,8 +10,8 @@ import time
 import html
 from urllib.parse import urljoin
 
-MFPLINK = "LINKMFP"
-MFPPSW = "MFPPSW"
+MFPLINK = "https://mfp.mac4.duckdns.org"
+MFPPSW = "mfp"
 
 # Funzioni dal tuo mpd_decoder.py
 def extract_mpd_link_from_page(url):
