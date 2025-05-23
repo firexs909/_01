@@ -10,7 +10,7 @@ import requests
 from bs4 import BeautifulSoup
 import time
 
-PRXLINK = "" # non mettere lo / finale
+PRXLINK = "https://nextcloud.mac4.duckdns.org" # non mettere lo / finale
 
 
 PROXY = f"{PRXLINK}/proxy/m3u?url="
