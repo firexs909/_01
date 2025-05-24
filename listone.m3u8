@@ -912,726 +912,48 @@ https://mfpmod.mac4.duckdns.org/proxy/mpd/manifest.m3u8?d=https%3A//linear313-it
 https://mfpmod.mac4.duckdns.org/proxy/mpd/manifest.m3u8?d=https%3A//linear313-it-dash1-prd.selector.skycdn.it/016a/32477/FHD/skyuno/master_stereo.mpd&key_id=003610b8556000936e48061cdb4ee11a&key=2cd6bcc2160aa6ec048e5a5f7a0f73c8&api_password=
 #EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EuroSport 1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EuroSport 1 (H)
 https://mfpmod.mac4.duckdns.org/proxy/mpd/manifest.m3u8?d=https%3A//linear311-it-dash1-prd.selector.skycdn.it/016a/313073/FHD/eurosport/master_stereo.mpd&key_id=0036bb3fa7e6f2c334d7cba5c28b6caf&key=217fa35739cd68e90b2cd23322c01312&api_password=
-#EXTINF:-1 tvg-id="Ukraine Premier League - Inhulets Petrove vs Vorskla Poltava" tvg-name="14:30 Ukraine Premier League : Inhulets Petrove vs Vorskla Poltava - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", UPLTV
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-9000.php
 
-#EXTINF:-1 tvg-id="Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC - Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC" tvg-name="18:00 Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Mix DE
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-557.php
-
-#EXTINF:-1 tvg-id="Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC - Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC" tvg-name="18:00 Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Top Event DE
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-556.php
-
-#EXTINF:-1 tvg-id="Austria - Football Bundesliga - Simulcast" tvg-name="19:30 Austria - Football Bundesliga : Simulcast - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Austria 1
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-559.php
-
-#EXTINF:-1 tvg-id="Austria - Football Bundesliga - LASK Linz vs Rheindorf Altach" tvg-name="19:30 Austria - Football Bundesliga : LASK Linz vs Rheindorf Altach - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Austria 2
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1.php
-
-#EXTINF:-1 tvg-id="Austria - Football Bundesliga - LASK Linz vs Rheindorf Altach" tvg-name="19:30 Austria - Football Bundesliga : LASK Linz vs Rheindorf Altach - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport Klub HD Croatia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-453.php
-
-#EXTINF:-1 tvg-id="Austria - Football Bundesliga - Austria Klagenfurt vs Hartberg" tvg-name="19:30 Austria - Football Bundesliga : Austria Klagenfurt vs Hartberg - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Austria 3
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-2.php
-
-#EXTINF:-1 tvg-id="Austria - Football Bundesliga - Austria Klagenfurt vs Hartberg" tvg-name="19:30 Austria - Football Bundesliga : Austria Klagenfurt vs Hartberg - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport Klub 4 Croatia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-104.php
-
-#EXTINF:-1 tvg-id="Austria - Football Bundesliga - WSG Tirol vs Grazer AK" tvg-name="19:30 Austria - Football Bundesliga : WSG Tirol vs Grazer AK - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Austria 4
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-3.php
-
-#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Saarbrücken vs Eintracht Braunschweig" tvg-name="20:30 Germany - Bundesliga 2 : Saarbrücken vs Eintracht Braunschweig - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748001202_saarbrcken-x-eintracht-braunschweig.png" group-title="Soccer", Sky Sport Bundesliga 1
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-558.php
-
-#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Saarbrücken vs Eintracht Braunschweig" tvg-name="20:30 Germany - Bundesliga 2 : Saarbrücken vs Eintracht Braunschweig - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748001202_saarbrcken-x-eintracht-braunschweig.png" group-title="Soccer", Sky Sport Top Event DE
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-556.php
-
-#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Saarbrücken vs Eintracht Braunschweig" tvg-name="20:30 Germany - Bundesliga 2 : Saarbrücken vs Eintracht Braunschweig - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748001202_saarbrcken-x-eintracht-braunschweig.png" group-title="Soccer", Tivibu Spor 1 Turkey
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-5.php
-
-#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Saarbrücken vs Eintracht Braunschweig" tvg-name="20:30 Germany - Bundesliga 2 : Saarbrücken vs Eintracht Braunschweig - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748001202_saarbrcken-x-eintracht-braunschweig.png" group-title="Soccer", DAZN Eleven 2 Portugal
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-456.php
-
-#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Saarbrücken vs Eintracht Braunschweig" tvg-name="20:30 Germany - Bundesliga 2 : Saarbrücken vs Eintracht Braunschweig - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748001202_saarbrcken-x-eintracht-braunschweig.png" group-title="Soccer", Arena Sport 3 Serbia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-431.php
-
-#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Saarbrücken vs Eintracht Braunschweig" tvg-name="20:30 Germany - Bundesliga 2 : Saarbrücken vs Eintracht Braunschweig - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748001202_saarbrcken-x-eintracht-braunschweig.png" group-title="Soccer", MATCH! Futbol 3 Russia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-138.php
-
-#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Saarbrücken vs Eintracht Braunschweig" tvg-name="20:30 Germany - Bundesliga 2 : Saarbrücken vs Eintracht Braunschweig - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748001202_saarbrcken-x-eintracht-braunschweig.png" group-title="Soccer", Sport Klub 2 Croatia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-102.php
-
-#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Saarbrücken vs Eintracht Braunschweig" tvg-name="20:30 Germany - Bundesliga 2 : Saarbrücken vs Eintracht Braunschweig - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748001202_saarbrcken-x-eintracht-braunschweig.png" group-title="Soccer", beIN Sports 3 Malaysia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-714.php
-
-#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Saarbrücken vs Eintracht Braunschweig" tvg-name="20:30 Germany - Bundesliga 2 : Saarbrücken vs Eintracht Braunschweig - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748001202_saarbrcken-x-eintracht-braunschweig.png" group-title="Soccer", beIN Sports MENA 5
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-95.php
-
-#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Saarbrücken vs Eintracht Braunschweig" tvg-name="20:30 Germany - Bundesliga 2 : Saarbrücken vs Eintracht Braunschweig - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748001202_saarbrcken-x-eintracht-braunschweig.png" group-title="Soccer", Sport 3 Israel
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-142.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Simulcast" tvg-name="20:45 Italy - Serie A : Simulcast - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Ziggo Sport 1 NL
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-393.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Como vs Internazionale" tvg-name="20:45 Italy - Serie A : Como vs Internazionale - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000313_como-x-internazionale.png" group-title="Soccer", DAZN IT
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-55.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Como vs Internazionale" tvg-name="20:45 Italy - Serie A : Como vs Internazionale - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000313_como-x-internazionale.png" group-title="Soccer", TNT Sports 2 UK
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-32.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Como vs Internazionale" tvg-name="20:45 Italy - Serie A : Como vs Internazionale - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000313_como-x-internazionale.png" group-title="Soccer", Sport TV2 Portugal
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-74.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Como vs Internazionale" tvg-name="20:45 Italy - Serie A : Como vs Internazionale - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000313_como-x-internazionale.png" group-title="Soccer", Eleven Sports 2 Poland
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-72.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Como vs Internazionale" tvg-name="20:45 Italy - Serie A : Como vs Internazionale - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000313_como-x-internazionale.png" group-title="Soccer", Abu Dhabi Sports Premium 2
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-610.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Como vs Internazionale" tvg-name="20:45 Italy - Serie A : Como vs Internazionale - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000313_como-x-internazionale.png" group-title="Soccer", Match TV Russia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-127.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Como vs Internazionale" tvg-name="20:45 Italy - Serie A : Como vs Internazionale - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000313_como-x-internazionale.png" group-title="Soccer", Match! Football 2 Russia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-137.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Como vs Internazionale" tvg-name="20:45 Italy - Serie A : Como vs Internazionale - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000313_como-x-internazionale.png" group-title="Soccer", Ziggo Sport 3 NL
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-919.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Como vs Internazionale" tvg-name="20:45 Italy - Serie A : Como vs Internazionale - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000313_como-x-internazionale.png" group-title="Soccer", Cosmote Sport 3 Greece
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-624.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Como vs Internazionale" tvg-name="20:45 Italy - Serie A : Como vs Internazionale - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000313_como-x-internazionale.png" group-title="Soccer", Cytavision Sports 6 Cyprus
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-916.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Como vs Internazionale" tvg-name="20:45 Italy - Serie A : Como vs Internazionale - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000313_como-x-internazionale.png" group-title="Soccer", TV4 Sport Live 1
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-703.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Como vs Internazionale" tvg-name="20:45 Italy - Serie A : Como vs Internazionale - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000313_como-x-internazionale.png" group-title="Soccer", Arena 3 Premium Serbia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-139.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Como vs Internazionale" tvg-name="20:45 Italy - Serie A : Como vs Internazionale - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000313_como-x-internazionale.png" group-title="Soccer", Max Sport 1 Bulgaria
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-472.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Como vs Internazionale" tvg-name="20:45 Italy - Serie A : Como vs Internazionale - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000313_como-x-internazionale.png" group-title="Soccer", Arena Sport 3 Croatia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-434.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Como vs Internazionale" tvg-name="20:45 Italy - Serie A : Como vs Internazionale - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000313_como-x-internazionale.png" group-title="Soccer", SuperSport Football
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-56.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Como vs Internazionale" tvg-name="20:45 Italy - Serie A : Como vs Internazionale - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000313_como-x-internazionale.png" group-title="Soccer", Sport 1 Israel
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-140.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Napoli vs Cagliari" tvg-name="20:45 Italy - Serie A : Napoli vs Cagliari - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000271_napoli-x-cagliari.png" group-title="Soccer", DAZN IT
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-59.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Napoli vs Cagliari" tvg-name="20:45 Italy - Serie A : Napoli vs Cagliari - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000271_napoli-x-cagliari.png" group-title="Soccer", Paramaunt+
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-152.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Napoli vs Cagliari" tvg-name="20:45 Italy - Serie A : Napoli vs Cagliari - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000271_napoli-x-cagliari.png" group-title="Soccer", TNT Sports 1 UK
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-31.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Napoli vs Cagliari" tvg-name="20:45 Italy - Serie A : Napoli vs Cagliari - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000271_napoli-x-cagliari.png" group-title="Soccer", Eleven Sports 3 Poland
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-428.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Napoli vs Cagliari" tvg-name="20:45 Italy - Serie A : Napoli vs Cagliari - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000271_napoli-x-cagliari.png" group-title="Soccer", Abu Dhabi Sports Premium 1
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-609.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Napoli vs Cagliari" tvg-name="20:45 Italy - Serie A : Napoli vs Cagliari - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000271_napoli-x-cagliari.png" group-title="Soccer", Ziggo Sport 2 NL
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-398.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Napoli vs Cagliari" tvg-name="20:45 Italy - Serie A : Napoli vs Cagliari - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000271_napoli-x-cagliari.png" group-title="Soccer", Match! Football 1 Russia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-136.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Napoli vs Cagliari" tvg-name="20:45 Italy - Serie A : Napoli vs Cagliari - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000271_napoli-x-cagliari.png" group-title="Soccer", FOX Deportes
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-643.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Napoli vs Cagliari" tvg-name="20:45 Italy - Serie A : Napoli vs Cagliari - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000271_napoli-x-cagliari.png" group-title="Soccer", ESPN2 Mexico
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-926.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Napoli vs Cagliari" tvg-name="20:45 Italy - Serie A : Napoli vs Cagliari - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000271_napoli-x-cagliari.png" group-title="Soccer", Cosmote Sport 2 Greece
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-623.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Napoli vs Cagliari" tvg-name="20:45 Italy - Serie A : Napoli vs Cagliari - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000271_napoli-x-cagliari.png" group-title="Soccer", Arena Sport 4 Croatia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-580.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Napoli vs Cagliari" tvg-name="20:45 Italy - Serie A : Napoli vs Cagliari - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000271_napoli-x-cagliari.png" group-title="Soccer", Sport TV1 Portugal
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-49.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Napoli vs Cagliari" tvg-name="20:45 Italy - Serie A : Napoli vs Cagliari - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000271_napoli-x-cagliari.png" group-title="Soccer", Arena Premium 2 Serbia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-135.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Napoli vs Cagliari" tvg-name="20:45 Italy - Serie A : Napoli vs Cagliari - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000271_napoli-x-cagliari.png" group-title="Soccer", Cytavision Sports 4 Cyprus
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-914.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Napoli vs Cagliari" tvg-name="20:45 Italy - Serie A : Napoli vs Cagliari - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000271_napoli-x-cagliari.png" group-title="Soccer", TV2 Sport X Denmark
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-808.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Napoli vs Cagliari" tvg-name="20:45 Italy - Serie A : Napoli vs Cagliari - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000271_napoli-x-cagliari.png" group-title="Soccer", Max Sport 3 Bulgaria
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-474.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Napoli vs Cagliari" tvg-name="20:45 Italy - Serie A : Napoli vs Cagliari - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000271_napoli-x-cagliari.png" group-title="Soccer", ESPN Brazil
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-81.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Napoli vs Cagliari" tvg-name="20:45 Italy - Serie A : Napoli vs Cagliari - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000271_napoli-x-cagliari.png" group-title="Soccer", Digi Sport 2 Romania
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-401.php
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Napoli vs Cagliari" tvg-name="20:45 Italy - Serie A : Napoli vs Cagliari - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000271_napoli-x-cagliari.png" group-title="Soccer", ESPN Argentina
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-149.php
-
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Betis vs Valencia" tvg-name="21:00 Spain - La Liga : Real Betis vs Valencia - 23/05/25" tvg-logo="https://skystreaming.help/content/thumbs/e1964866b1f03d1bad6ca843e0b1f756." group-title="Soccer", DAZN LaLiga
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-538.php
-
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Betis vs Valencia" tvg-name="21:00 Spain - La Liga : Real Betis vs Valencia - 23/05/25" tvg-logo="https://skystreaming.help/content/thumbs/e1964866b1f03d1bad6ca843e0b1f756." group-title="Soccer", LaLigaTV UK
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-276.php
-
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Betis vs Valencia" tvg-name="21:00 Spain - La Liga : Real Betis vs Valencia - 23/05/25" tvg-logo="https://skystreaming.help/content/thumbs/e1964866b1f03d1bad6ca843e0b1f756." group-title="Soccer", beIN Sports 2 France
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-117.php
-
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Betis vs Valencia" tvg-name="21:00 Spain - La Liga : Real Betis vs Valencia - 23/05/25" tvg-logo="https://skystreaming.help/content/thumbs/e1964866b1f03d1bad6ca843e0b1f756." group-title="Soccer", ESPN Deportes
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-375.php
-
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Betis vs Valencia" tvg-name="21:00 Spain - La Liga : Real Betis vs Valencia - 23/05/25" tvg-logo="https://skystreaming.help/content/thumbs/e1964866b1f03d1bad6ca843e0b1f756." group-title="Soccer", Nova Sports 1 Greece
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-631.php
-
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Betis vs Valencia" tvg-name="21:00 Spain - La Liga : Real Betis vs Valencia - 23/05/25" tvg-logo="https://skystreaming.help/content/thumbs/e1964866b1f03d1bad6ca843e0b1f756." group-title="Soccer", Eleven Sports 2 Poland
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-72.php
-
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Betis vs Valencia" tvg-name="21:00 Spain - La Liga : Real Betis vs Valencia - 23/05/25" tvg-logo="https://skystreaming.help/content/thumbs/e1964866b1f03d1bad6ca843e0b1f756." group-title="Soccer", Arena 1 Serbia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-429.php
-
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Betis vs Valencia" tvg-name="21:00 Spain - La Liga : Real Betis vs Valencia - 23/05/25" tvg-logo="https://skystreaming.help/content/thumbs/e1964866b1f03d1bad6ca843e0b1f756." group-title="Soccer", TV4 Sport Live 2
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-704.php
-
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Betis vs Valencia" tvg-name="21:00 Spain - La Liga : Real Betis vs Valencia - 23/05/25" tvg-logo="https://skystreaming.help/content/thumbs/e1964866b1f03d1bad6ca843e0b1f756." group-title="Soccer", Arena Sport 5 Croatia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-13.php
-
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Betis vs Valencia" tvg-name="21:00 Spain - La Liga : Real Betis vs Valencia - 23/05/25" tvg-logo="https://skystreaming.help/content/thumbs/e1964866b1f03d1bad6ca843e0b1f756." group-title="Soccer", Max Sport 4 Bulgaria
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-475.php
-
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Betis vs Valencia" tvg-name="21:00 Spain - La Liga : Real Betis vs Valencia - 23/05/25" tvg-logo="https://skystreaming.help/content/thumbs/e1964866b1f03d1bad6ca843e0b1f756." group-title="Soccer", beIN Sports 1 Malaysia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-712.php
-
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Betis vs Valencia" tvg-name="21:00 Spain - La Liga : Real Betis vs Valencia - 23/05/25" tvg-logo="https://skystreaming.help/content/thumbs/e1964866b1f03d1bad6ca843e0b1f756." group-title="Soccer", beIN Sports MENA 3
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-93.php
-
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Betis vs Valencia" tvg-name="21:00 Spain - La Liga : Real Betis vs Valencia - 23/05/25" tvg-logo="https://skystreaming.help/content/thumbs/e1964866b1f03d1bad6ca843e0b1f756." group-title="Soccer", beIN Sports MENA English 1
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-61.php
-
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Betis vs Valencia" tvg-name="21:00 Spain - La Liga : Real Betis vs Valencia - 23/05/25" tvg-logo="https://skystreaming.help/content/thumbs/e1964866b1f03d1bad6ca843e0b1f756." group-title="Soccer", SuperSport Laliga
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-415.php
-
-#EXTINF:-1 tvg-id="Brazil - Serie B - Goiás vs Ferroviária" tvg-name="02:35 Brazil - Serie B : Goiás vs Ferroviária - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Brazil
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-81.php
-
-#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court Suzanne-Lenglen" tvg-name="11:00 ROLAND GARROS QUALIFYING : Court Suzanne-Lenglen - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="ROLAND GARROS QUALIFYING", Tennis Stream
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 14" tvg-name="11:00 ROLAND GARROS QUALIFYING : Court 14 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="ROLAND GARROS QUALIFYING", Tennis Stream
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 7" tvg-name="11:00 ROLAND GARROS QUALIFYING : Court 7 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="ROLAND GARROS QUALIFYING", Tennis Stream
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 6" tvg-name="11:00 ROLAND GARROS QUALIFYING : Court 6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="ROLAND GARROS QUALIFYING", Tennis Stream
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 8" tvg-name="11:00 ROLAND GARROS QUALIFYING : Court 8 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="ROLAND GARROS QUALIFYING", Tennis Stream
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 9" tvg-name="11:00 ROLAND GARROS QUALIFYING : Court 9 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="ROLAND GARROS QUALIFYING", Tennis Stream
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 12" tvg-name="11:00 ROLAND GARROS QUALIFYING : Court 12 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="ROLAND GARROS QUALIFYING", Tennis Stream
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 13" tvg-name="11:00 ROLAND GARROS QUALIFYING : Court 13 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="ROLAND GARROS QUALIFYING", Tennis Stream
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="ATP - HAMBURG - Etcheverry T. M. vs Cobolli F." tvg-name="15:30 ATP - HAMBURG : Etcheverry T. M. vs Cobolli F. - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="ATP - HAMBURG", Tennis Stream
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="ATP - HAMBURG - Auger-Aliassime F. vs Rublev A." tvg-name="17:30 ATP - HAMBURG : Auger-Aliassime F. vs Rublev A. - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="ATP - HAMBURG", Tennis Stream
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="ATP - GENEVA - Hurkacz H. vs Ofner S." tvg-name="14:00 ATP - GENEVA : Hurkacz H. vs Ofner S. - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="ATP - GENEVA", Tennis Stream
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="WTA - STRASBOURG - Rybakina E. vs Haddad Maia B." tvg-name="14:30 WTA - STRASBOURG : Rybakina E. vs Haddad Maia B. - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WTA - STRASBOURG", Tennis Stream
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="WTA - STRASBOURG - Collins D. vs Samsonova L." tvg-name="16:30 WTA - STRASBOURG : Collins D. vs Samsonova L. - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WTA - STRASBOURG", Tennis Stream
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="WTA - RABAT - Tomljanovic A. vs Joint M." tvg-name="12:00 WTA - RABAT : Tomljanovic A. vs Joint M. - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WTA - RABAT", Tennis Stream
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="WTA - RABAT - Cristian J. vs Osorio C." tvg-name="15:30 WTA - RABAT : Cristian J. vs Osorio C. - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WTA - RABAT", Tennis Stream
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-40.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-46.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN5
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-115.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis DE
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-884.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-713.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 1
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-491.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 2
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-492.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-701.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 1 Poland
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-47.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cosmote Sport 7
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-628.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Nova Sports 6 Greece
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-636.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 2 Spain
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-438.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-915.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 1 Bulgaria
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-472.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Premium 3 Serbia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-139.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-393.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-773.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-396.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 5 NL
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-383.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-453.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Digi Sport 4 Romania
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-403.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena 2 Serbia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-430.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 3 Bulgaria
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-474.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-102.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-101.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Plus Israel
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-145.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Live Israel
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-146.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 3 Israel
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-142.php
-
-#EXTINF:-1 tvg-id="Roland Garros 2025 Qualifying rounds of Roland-Garros - Roland Garros 2025 Qualifying rounds of Roland-Garros" tvg-name="12:00 Roland Garros 2025 Qualifying rounds of Roland-Garros - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 5 UK
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-23.php
-
-#EXTINF:-1 tvg-id="Moto3 - Storbritanniens Grand Prixx Free Practice 1" tvg-name="10:55 Moto3 : Storbritanniens Grand Prixx Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
-
-#EXTINF:-1 tvg-id="Moto3 - Storbritanniens Grand Prixx Free Practice 1" tvg-name="10:55 Moto3 : Storbritanniens Grand Prixx Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-271.php
-
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 2 UK
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-32.php
-
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
-
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-271.php
-
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Mix DE
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-557.php
-
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Top Event DE
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-556.php
-
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN1 ES
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-445.php
-
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport 360
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-464.php
-
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV4 Portugal
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-289.php
-
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN Argentina
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-149.php
-
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 5 Greece
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-626.php
-
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-916.php
-
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 3 Croatia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-103.php
-
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Ziggo Sport 1 NL
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-393.php
-
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", MAX Sport 2 Bulgaria
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-473.php
-
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Digi Sport 3 Romania
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-402.php
-
-#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Practice" tvg-name="11:00 Formula 3 : Tag Heuer Monaco Grand Prix - Practice - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-60.php
-
-#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Practice" tvg-name="11:00 Formula 3 : Tag Heuer Monaco Grand Prix - Practice - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-274.php
-
-#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Practice" tvg-name="11:00 Formula 3 : Tag Heuer Monaco Grand Prix - Practice - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN F1 ES
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-537.php
-
-#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Practice" tvg-name="11:00 Formula 3 : Tag Heuer Monaco Grand Prix - Practice - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 Italy
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
-
-#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Practice" tvg-name="11:00 Formula 3 : Tag Heuer Monaco Grand Prix - Practice - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-774.php
-
-#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Free Practice" tvg-name="11:05 Formula 2 : Tag Heuer Monaco Grand Prix - Free Practice - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-60.php
-
-#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Free Practice" tvg-name="11:05 Formula 2 : Tag Heuer Monaco Grand Prix - Free Practice - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-274.php
-
-#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Free Practice" tvg-name="11:05 Formula 2 : Tag Heuer Monaco Grand Prix - Free Practice - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN F1 ES
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-537.php
-
-#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Free Practice" tvg-name="11:05 Formula 2 : Tag Heuer Monaco Grand Prix - Free Practice - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 Italy
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
-
-#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Free Practice" tvg-name="11:05 Formula 2 : Tag Heuer Monaco Grand Prix - Free Practice - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-774.php
-
-#EXTINF:-1 tvg-id="Moto2 - Storbritanniens Grand Prixx Free Practice 1" tvg-name="12:00 Moto2 : Storbritanniens Grand Prixx Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
-
-#EXTINF:-1 tvg-id="Moto2 - Storbritanniens Grand Prixx Free Practice 1" tvg-name="12:00 Moto2 : Storbritanniens Grand Prixx Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-271.php
-
-#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 1" tvg-name="13:30 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-60.php
-
-#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 1" tvg-name="13:30 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-274.php
-
-#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 1" tvg-name="13:30 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN F1 ES
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-537.php
-
-#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 1" tvg-name="13:30 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 Italy
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
-
-#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 1" tvg-name="13:30 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-774.php
-
-#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="15:05 Formula 3 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-60.php
-
-#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="15:05 Formula 3 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-274.php
-
-#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="15:05 Formula 3 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN F1 ES
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-537.php
-
-#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="15:05 Formula 3 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 Italy
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
-
-#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="15:05 Formula 3 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-774.php
-
-#EXTINF:-1 tvg-id="Moto3 - Storbritanniens Grand Prixx Practice 1" tvg-name="15:10 Moto3 : Storbritanniens Grand Prixx Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
-
-#EXTINF:-1 tvg-id="Moto3 - Storbritanniens Grand Prixx Practice 1" tvg-name="15:10 Moto3 : Storbritanniens Grand Prixx Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-271.php
-
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 2 UK
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-32.php
-
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
-
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-271.php
-
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Mix DE
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-557.php
-
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Top Event DE
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-556.php
-
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN1 ES
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-445.php
-
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport 360
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-464.php
-
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV4 Portugal
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-289.php
-
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN Argentina
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-149.php
-
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 5 Greece
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-626.php
-
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-916.php
-
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 3 Croatia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-103.php
-
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Ziggo Sport 1 NL
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-393.php
-
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", MAX Sport 2 Bulgaria
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-473.php
-
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Digi Sport 3 Romania
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-402.php
-
-#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="16:00 Formula 2 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-60.php
-
-#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="16:00 Formula 2 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-274.php
-
-#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="16:00 Formula 2 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN F1 ES
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-537.php
-
-#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="16:00 Formula 2 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 Italy
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
-
-#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="16:00 Formula 2 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-774.php
-
-#EXTINF:-1 tvg-id="Moto2 - Storbritanniens Grand Prix Practice 1" tvg-name="16:00 Moto2 : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
-
-#EXTINF:-1 tvg-id="Moto2 - Storbritanniens Grand Prix Practice 1" tvg-name="16:00 Moto2 : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-271.php
-
-#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 2" tvg-name="17:00 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 2 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-60.php
-
-#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 2" tvg-name="17:00 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 2 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-274.php
-
-#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 2" tvg-name="17:00 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 2 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN F1 ES
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-537.php
-
-#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 2" tvg-name="17:00 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 2 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 Italy
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
-
-#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 2" tvg-name="17:00 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 2 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-774.php
-
-#EXTINF:-1 tvg-id="IndyCar Series Season Coverage of the Pit Stop Challenge - IndyCar Series Season Coverage of the Pit Stop Challenge" tvg-name="20:30 IndyCar Series Season Coverage of the Pit Stop Challenge - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-60.php
-
-#EXTINF:-1 tvg-id="Super League - Hapoel Tel Aviv vs Hapoel Jerusalem" tvg-name="14:15 Super League : Hapoel Tel Aviv vs Hapoel Jerusalem - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportklub 4 Croatia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-104.php
-
-#EXTINF:-1 tvg-id="Super League - Hapoel Tel Aviv vs Hapoel Jerusalem" tvg-name="14:15 Super League : Hapoel Tel Aviv vs Hapoel Jerusalem - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-144.php
-
-#EXTINF:-1 tvg-id="Euroleague - Fenerbahce Istanbul vs. Panathinaikos BC" tvg-name="17:00 Euroleague : Fenerbahce Istanbul vs. Panathinaikos BC - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-6.php
-
-#EXTINF:-1 tvg-id="Euroleague - Fenerbahce Istanbul vs. Panathinaikos BC" tvg-name="17:00 Euroleague : Fenerbahce Istanbul vs. Panathinaikos BC - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes Spain
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-436.php
-
-#EXTINF:-1 tvg-id="Euroleague - Fenerbahce Istanbul vs. Panathinaikos BC" tvg-name="17:00 Euroleague : Fenerbahce Istanbul vs. Panathinaikos BC - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport TV1 Portugal
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-49.php
-
-#EXTINF:-1 tvg-id="Euroleague - Fenerbahce Istanbul vs. Panathinaikos BC" tvg-name="17:00 Euroleague : Fenerbahce Istanbul vs. Panathinaikos BC - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Polsat Sport 3 Poland
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-129.php
-
-#EXTINF:-1 tvg-id="Euroleague - Fenerbahce Istanbul vs. Panathinaikos BC" tvg-name="17:00 Euroleague : Fenerbahce Istanbul vs. Panathinaikos BC - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 1 Premium Serbia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-134.php
-
-#EXTINF:-1 tvg-id="Euroleague - Fenerbahce Istanbul vs. Panathinaikos BC" tvg-name="17:00 Euroleague : Fenerbahce Istanbul vs. Panathinaikos BC - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 1 Croatia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-101.php
-
-#EXTINF:-1 tvg-id="Euroleague - Fenerbahce Istanbul vs. Panathinaikos BC" tvg-name="17:00 Euroleague : Fenerbahce Istanbul vs. Panathinaikos BC - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports Prime Greece
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-638.php
-
-#EXTINF:-1 tvg-id="Euroleague - Fenerbahce Istanbul vs. Panathinaikos BC" tvg-name="17:00 Euroleague : Fenerbahce Istanbul vs. Panathinaikos BC - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", MAX Sport 2 Bulgaria
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-473.php
-
-#EXTINF:-1 tvg-id="Euroleague - Fenerbahce Istanbul vs. Panathinaikos BC" tvg-name="17:00 Euroleague : Fenerbahce Istanbul vs. Panathinaikos BC - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-144.php
-
-#EXTINF:-1 tvg-id="Austria Superliga - BBC Nord Dragonz vs. Oberwart Gunners" tvg-name="18:00 Austria Superliga : BBC Nord Dragonz vs. Oberwart Gunners - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ORF Sport Plus
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-12.php
-
-#EXTINF:-1 tvg-id="Hungary NB I - Falco KC Szombathely vs. Szolnoki Olaj Kk" tvg-name="18:05 Hungary NB I : Falco KC Szombathely vs. Szolnoki Olaj Kk - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", M4 Sport Hungary
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-265.php
-
-#EXTINF:-1 tvg-id="Basketball 3x3 Pro Tour - Trogir" tvg-name="19:00 Basketball 3x3 Pro Tour: Trogir - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 3 Croatia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-103.php
-
-#EXTINF:-1 tvg-id="National Basketball Championship Betclic League Play Off - Semi-Finals - Game 1 - National Basketball Championship Betclic League Play Off - Semi-Finals - Game 1" tvg-name="19:55 National Basketball Championship Betclic League Play Off - Semi-Finals - Game 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", RTP 2 Portugal
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-720.php
-
-#EXTINF:-1 tvg-id="Euroleague - BC Olympiakos Piraeus vs. AS Monaco" tvg-name="20:00 Euroleague : BC Olympiakos Piraeus vs. AS Monaco - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-8.php
-
-#EXTINF:-1 tvg-id="Euroleague - BC Olympiakos Piraeus vs. AS Monaco" tvg-name="20:00 Euroleague : BC Olympiakos Piraeus vs. AS Monaco - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes Spain
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-436.php
-
-#EXTINF:-1 tvg-id="Euroleague - BC Olympiakos Piraeus vs. AS Monaco" tvg-name="20:00 Euroleague : BC Olympiakos Piraeus vs. AS Monaco - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 1 Premium Serbia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-134.php
-
-#EXTINF:-1 tvg-id="Euroleague - BC Olympiakos Piraeus vs. AS Monaco" tvg-name="20:00 Euroleague : BC Olympiakos Piraeus vs. AS Monaco - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports Prime Greece
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-638.php
-
-#EXTINF:-1 tvg-id="Euroleague - BC Olympiakos Piraeus vs. AS Monaco" tvg-name="20:00 Euroleague : BC Olympiakos Piraeus vs. AS Monaco - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 1 Croatia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-101.php
-
-#EXTINF:-1 tvg-id="Euroleague - BC Olympiakos Piraeus vs. AS Monaco" tvg-name="20:00 Euroleague : BC Olympiakos Piraeus vs. AS Monaco - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", MAX Sport 2 Bulgaria
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-473.php
-
-#EXTINF:-1 tvg-id="Euroleague - BC Olympiakos Piraeus vs. AS Monaco" tvg-name="20:00 Euroleague : BC Olympiakos Piraeus vs. AS Monaco - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport TV1 Portugal
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-49.php
-
-#EXTINF:-1 tvg-id="Euroleague - BC Olympiakos Piraeus vs. AS Monaco" tvg-name="20:00 Euroleague : BC Olympiakos Piraeus vs. AS Monaco - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-144.php
-
-#EXTINF:-1 tvg-id="Spain Primera FEB - Gipuzkoa/ipuzkoa BC vs Movistar Estudiantes" tvg-name="20:25 Spain Primera FEB : Gipuzkoa/ipuzkoa BC vs Movistar Estudiantes - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes 3 Spain
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-526.php
-
-#EXTINF:-1 tvg-id="Lega A - Reyer Venezia vs. Virtus Bologna" tvg-name="20:45 Lega A : Reyer Venezia vs. Virtus Bologna - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 2 Serbia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-430.php
-
-#EXTINF:-1 tvg-id="Lega A - Reyer Venezia vs. Virtus Bologna" tvg-name="20:45 Lega A : Reyer Venezia vs. Virtus Bologna - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 2 Croatia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-433.php
-
-#EXTINF:-1 tvg-id="Lega A - Reyer Venezia vs. Virtus Bologna" tvg-name="20:45 Lega A : Reyer Venezia vs. Virtus Bologna - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cosmote Sport 8 Greece
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-629.php
-
-#EXTINF:-1 tvg-id="Lega A - Reyer Venezia vs. Virtus Bologna" tvg-name="20:45 Lega A : Reyer Venezia vs. Virtus Bologna - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 4 Israel
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-143.php
-
-#EXTINF:-1 tvg-id="WNBA Basketball - Connecticut Sun vs Minnesota Lynx" tvg-name="01:30 WNBA Basketball : Connecticut Sun vs Minnesota Lynx - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ION USA
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-325.php
-
-#EXTINF:-1 tvg-id="CEBL Basketball - Ottawa BlackJacks vs Montreal Alliance" tvg-name="02:00 CEBL Basketball : Ottawa BlackJacks vs Montreal Alliance - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN2
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-112.php
-
-#EXTINF:-1 tvg-id="CEBL Basketball - Ottawa BlackJacks vs Montreal Alliance" tvg-name="02:00 CEBL Basketball : Ottawa BlackJacks vs Montreal Alliance - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", RDS Info
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-841.php
-
-#EXTINF:-1 tvg-id="WNBA Basketball - Phoenix Mercury vs Seattle Storm" tvg-name="04:00 WNBA Basketball : Phoenix Mercury vs Seattle Storm - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ION USA
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-325.php
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Home Feed
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-4.php
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Away Feed
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-5.php
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TNT Sports 1 UK
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-31.php
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TNT USA
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-338.php
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", truTV USA
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-341.php
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN3
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-113.php
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN4
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-114.php
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes Spain
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-436.php
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport TV1 Portugal
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-49.php
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", CANAL+ Sport Poland
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-48.php
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN Sports 1 France
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-116.php
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN 1 NL
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-379.php
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cytavision Sports 6 Cyprus
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-916.php
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 1 Premium Serbia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-134.php
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Diema Sport 2 Bulgaria
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-466.php
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cosmote Sport 4 Greece
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-625.php
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 1 Croatia
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-432.php
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TV4 Sportkanalen
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-707.php
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TV2 Sport X Denmark
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-808.php
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-144.php
-
-#EXTINF:-1 tvg-id="Premier League Indoor Soccer Finals Game 2 - Nahalat Yitzhak vs Maccabi Netanya" tvg-name="12:05 Premier League Indoor Soccer Finals Game 2 : Nahalat Yitzhak vs Maccabi Netanya - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Futsal", Sport 5 Israel
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-144.php
-
-#EXTINF:-1 tvg-id="Women's Friendly tournament in Koszalin - France vs Sweden" tvg-name="15:30 Women's Friendly tournament in Koszalin : France vs Sweden - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-47.php
-
-#EXTINF:-1 tvg-id="Women's Friendly tournament in Koszalin - Poland vs Bulgaria" tvg-name="18:30 Women's Friendly tournament in Koszalin : Poland vs Bulgaria - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-47.php
-
-#EXTINF:-1 tvg-id="Women's Friendly tournament in Koszalin - Italy vs Netherlands" tvg-name="20:00 Women's Friendly tournament in Koszalin : Italy vs Netherlands - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Rai Sport 1 Italy
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-882.php
-
-#EXTINF:-1 tvg-id="AVP Beach Volleyball League Week 1 - Palm Beach Live - AVP Beach Volleyball League Week 1 - Palm Beach Live" tvg-name="02:00 AVP Beach Volleyball League Week 1 - Palm Beach Live - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", CBS Sports Network USA
-https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-308.php
-
+# Canali aggiunti da Hattrick
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport", Sky Sport 24 (Hd)
+https://mfpmod.mac4.duckdns.org/proxy/mpd/manifest.m3u8?d=https%3A//linear303-it-dash1-prd.selector.skycdn.it/016a/31035/FHD/skysport24/master_stereo.mpd%3F%26ck%3DMDAzNjYzZGRmMWFjYjI1ZWE4OGE3Y2Y5NzNhZmMwZDU6MzVlYTkxYjQxNTFkNjk3NTAwNzk5OGMzMjhkYWVlNmM%3D&key_id=003663ddf1acb25ea88a7cf973afc0d5&key=35ea91b4151d6975007998c328daee6c&api_password=
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport UNO " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport", Sky Sport UNO (Hd)
+https://mfpmod.mac4.duckdns.org/proxy/mpd/manifest.m3u8?d=https%3A//linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd%3F%26ck%3DMDAzNmFhYTFkNjhjNmI0ODdlMjlhNWNiMDgwYThhMjg6YTNlOGRiM2ZmM2M4NzZmN2I0M2E5NjFiNjRhNjM0NzQ%3D&key_id=0036aaa1d68c6b487e29a5cb080a8a28&key=a3e8db3ff3c876f7b43a961b64a63474&api_password=
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport UNO " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport", Sky Sport UNO (H)
+https://mfpmod.mac4.duckdns.org/proxy/mpd/manifest.m3u8?d=https%3A//linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd&key_id=0036aaa1d68c6b487e29a5cb080a8a28&key=a3e8db3ff3c876f7b43a961b64a63474&api_password=
+#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport", Sky Sport Calcio (Hd)
+https://mfpmod.mac4.duckdns.org/proxy/mpd/manifest.m3u8?d=https%3A//linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master_stereo.mpd&key_id=00362f95db61eba0e6f14acee3f71e01&key=fb74cd84b53c7557e18424a3356c4665&api_password=
+#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport", Sky Sport Calcio (H)
+https://mfpmod.mac4.duckdns.org/proxy/mpd/manifest.m3u8?d=https%3A//linear303-it-dash1-prd.selector.skycdn.it//016a/31209/FHD/skysportseriea/master_stereo.mpd&key_id=00362f95db61eba0e6f14acee3f71e01&key=fb74cd84b53c7557e18424a3356c4665&api_password=
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport", Sky Sport Arena (Hd)
+https://mfpmod.mac4.duckdns.org/proxy/mpd/manifest.m3u8?d=https%3A//linear304-it-dash1-prd.selector.skycdn.it/016a/31024/FHD/skysportarena/master_stereo.mpd%3F%26ck%3DMDAzNjhmMmJmMTA3MzZjOWMyYzAyYWIwZmE2OTRkMDA6OTJlZWM5ZDg0MWFjMGMxZmYxNmI5MGEwZGI4MmM3OTI%3D&key_id=00368f2bf10736c9c2c02ab0fa694d00&key=92eec9d841ac0c1ff16b90a0db82c792&api_password=
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport", Sky Sport Arena (H)
+https://mfpmod.mac4.duckdns.org/proxy/mpd/manifest.m3u8?d=https%3A//linear304-it-dash1-prd.selector.skycdn.it/016a/31024/FHD/skysportarena/master_stereo.mpd&key_id=00368f2bf10736c9c2c02ab0fa694d00&key=92eec9d841ac0c1ff16b90a0db82c792&api_password=
+#EXTINF:-1 tvg-id="skysportmax.it" tvg-name="Sky Sport Football " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport", Sky Sport Football (Hd)
+https://mfpmod.mac4.duckdns.org/proxy/mpd/manifest.m3u8?d=https%3A//linear305-it-dash1-prd.selector.skycdn.it/016a/31248/FHD/skysportmax/master_stereo.mpd%3F%26ck%3DMDAzNmYxM2JjYTFjNTYwM2I5ZjNiYjI4ZWMyOGZhODA6ZjAxNDAzYmNiNWEwMmM2MTE1M2QyOTdmYjBjNDM5NWY%3D&key_id=0036f13bca1c5603b9f3bb28ec28fa80&key=f01403bcb5a02c61153d297fb0c4395f&api_password=
+#EXTINF:-1 tvg-id="skysportmax.it" tvg-name="Sky Sport Football " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport", Sky Sport Football (H)
+https://mfpmod.mac4.duckdns.org/proxy/mpd/manifest.m3u8?d=https%3A//linear305-it-dash1-prd.selector.skycdn.it/016a/31248/FHD/skysportmax/master_stereo.mpd&key_id=0036f13bca1c5603b9f3bb28ec28fa80&key=f01403bcb5a02c61153d297fb0c4395f&api_password=
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport", Sky Sport F1 (Hd)
+https://mfpmod.mac4.duckdns.org/proxy/mpd/manifest.m3u8?d=https%3A//linear307-it-dash1-prd.selector.skycdn.it/016a/31478/FHD/skysportf1/master_stereo.mpd%3F%26ck%3DMDAzNmE5NmI2YmJiZjE4Mjg0ODhmOTBlNmIyY2ExZjQ6ZDI0ZTZhZTkyNmU4OGY4MzAzYjY5MjYyNzFmZjgxNTU%3D&key_id=0036a96b6bbbf1828488f90e6b2ca1f4&key=d24e6ae926e88f8303b6926271ff8155&api_password=
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport", Sky Sport F1 (H)
+https://mfpmod.mac4.duckdns.org/proxy/mpd/manifest.m3u8?d=https%3A//linear307-it-dash1-prd.selector.skycdn.it/016a/31478/FHD/skysportf1/master_stereo.mpd&key_id=0036a96b6bbbf1828488f90e6b2ca1f4&key=d24e6ae926e88f8303b6926271ff8155&api_password=
+#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport MotoGP " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport", Sky Sport MotoGP (Hd)
+https://mfpmod.mac4.duckdns.org/proxy/mpd/manifest.m3u8?d=https%3A//linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master_stereo.mpd%3F%26ck%3DMDAzNjJlOTE4MWVhYTBjNWY5MTc2MWFkZTM1MTVlYjg6NTJjZjNjMjc4ODVkNThhZDc2YWFmMzZkNDIxN2E5ODQ%3D&key_id=00362e9181eaa0c5f91761ade3515eb8&key=52cf3c27885d58ad76aaf36d4217a984&api_password=
+#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport MotoGP " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport", Sky Sport MotoGP (H)
+https://mfpmod.mac4.duckdns.org/proxy/mpd/manifest.m3u8?d=https%3A//linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master_stereo.mpd&key_id=00362e9181eaa0c5f91761ade3515eb8&key=52cf3c27885d58ad76aaf36d4217a984&api_password=
+#EXTINF:-1 tvg-id="dazn1.it" tvg-name="DAZN 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport", DAZN 1 (Hd)
+https://mfpmod.mac4.duckdns.org/proxy/mpd/manifest.m3u8?d=https%3A//abe6fjxaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd&key_id=8272bf6ba46f23f9da5270057b6e028a&key=74ae70dd10b4bb38ed6ffe843f3e2ccd&api_password=
+#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport", Sky Sport Tennis (Hd)
+https://mfpmod.mac4.duckdns.org/proxy/mpd/manifest.m3u8?d=https%3A//linear310-it-dash1-prd.selector.skycdn.it/016a/32559/FHD/skysporttennis/master.mpd%3F%26ck%3DMDAzNmZiN2M1NjRjNGViOTllMzEwZjVmYTgyYWIyZjI6NjQ3ZjA3YjY4NThhNjY5NDU2ZTczY2ExMDNiNGMyYzA%3D&key_id=0036fb7c564c4eb99e310f5fa82ab2f2&key=647f07b6858a669456e73ca103b4c2c0&api_password=
+#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport", Sky Sport Tennis (H)
+https://mfpmod.mac4.duckdns.org/proxy/mpd/manifest.m3u8?d=https%3A//linear310-it-dash1-prd.selector.skycdn.it/016a/32559/FHD/skysporttennis/master_stereo.mpd&key_id=0036fb7c564c4eb99e310f5fa82ab2f2&key=647f07b6858a669456e73ca103b4c2c0&api_password=
+#EXTINF:-1 tvg-id="" tvg-name="nbahd " tvg-logo="" group-title="Altro", nbahd (Hd)
+https://mfpmod.mac4.duckdns.org/proxy/mpd/manifest.m3u8?d=https%3A//linear308-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd&key_id=00364eac2ffee337640e39682439b540&key=0960172d9000c470ade0658bd36c1d53&api_password=
+#EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky UNO " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky", Sky UNO (Hd)
+https://mfpmod.mac4.duckdns.org/proxy/mpd/manifest.m3u8?d=https%3A//linear313-it-dash1-prd.selector.skycdn.it/016a/32477/FHD/skyuno/master_stereo.mpd&key_id=003610b8556000936e48061cdb4ee11a&key=2cd6bcc2160aa6ec048e5a5f7a0f73c8&api_password=
+#EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky UNO " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky", Sky UNO (H)
+https://mfpmod.mac4.duckdns.org/proxy/mpd/manifest.m3u8?d=https%3A//linear313-it-dash1-prd.selector.skycdn.it/016a/32477/FHD/skyuno/master_stereo.mpd&key_id=003610b8556000936e48061cdb4ee11a&key=2cd6bcc2160aa6ec048e5a5f7a0f73c8&api_password=
+#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EuroSport 1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EuroSport 1 (H)
+https://mfpmod.mac4.duckdns.org/proxy/mpd/manifest.m3u8?d=https%3A//linear311-it-dash1-prd.selector.skycdn.it/016a/313073/FHD/eurosport/master_stereo.mpd&key_id=0036bb3fa7e6f2c334d7cba5c28b6caf&key=217fa35739cd68e90b2cd23322c01312&api_password=
 #EXTINF:-1 tvg-id="Ukraine Premier League - Chornomorets vs Oleksandria" tvg-name="12:00 Ukraine Premier League : Chornomorets vs Oleksandria - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", UPLTV
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-9000.php
 
@@ -1674,64 +996,64 @@ https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="Russia - Premier League - CSKA Moskva vs Olimpiyets" tvg-name="15:30 Russia - Premier League : CSKA Moskva vs Olimpiyets - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MATCH! Futbol 2 Russia
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-137.php
 
-#EXTINF:-1 tvg-id="England - Championship - Sheffield United vs Sunderland" tvg-name="16:00 England - Championship : Sheffield United vs Sunderland - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sports Premier League DE
+#EXTINF:-1 tvg-id="England - Championship - Sheffield United vs Sunderland" tvg-name="16:00 England - Championship : Sheffield United vs Sunderland - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076897_sheffield-united-x-sunderland.png" group-title="Soccer", Sky Sports Premier League DE
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-16.php
 
-#EXTINF:-1 tvg-id="England - Championship - Sheffield United vs Sunderland" tvg-name="16:00 England - Championship : Sheffield United vs Sunderland - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
+#EXTINF:-1 tvg-id="England - Championship - Sheffield United vs Sunderland" tvg-name="16:00 England - Championship : Sheffield United vs Sunderland - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076897_sheffield-united-x-sunderland.png" group-title="Soccer", SuperSport Premier League
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-414.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN LaLiga
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076548_real-madrid-x-real-sociedad.png" group-title="Soccer", DAZN LaLiga
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-538.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LaLigaTV UK
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076548_real-madrid-x-real-sociedad.png" group-title="Soccer", LaLigaTV UK
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-276.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TSN2
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076548_real-madrid-x-real-sociedad.png" group-title="Soccer", TSN2
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-112.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Eleven 2 Portugal
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076548_real-madrid-x-real-sociedad.png" group-title="Soccer", DAZN Eleven 2 Portugal
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-456.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN1 DE
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076548_real-madrid-x-real-sociedad.png" group-title="Soccer", DAZN1 DE
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-426.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", CANAL+ Premium Poland
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076548_real-madrid-x-real-sociedad.png" group-title="Soccer", CANAL+ Premium Poland
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-566.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 2 France
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076548_real-madrid-x-real-sociedad.png" group-title="Soccer", beIN Sports 2 France
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-117.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 2 Romania
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076548_real-madrid-x-real-sociedad.png" group-title="Soccer", Digi Sport 2 Romania
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-401.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cytavision Sports 3 Cyprus
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076548_real-madrid-x-real-sociedad.png" group-title="Soccer", Cytavision Sports 3 Cyprus
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-913.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Deportes
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076548_real-madrid-x-real-sociedad.png" group-title="Soccer", ESPN Deportes
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-375.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Ziggo Sport 2 NL
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076548_real-madrid-x-real-sociedad.png" group-title="Soccer", Ziggo Sport 2 NL
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-398.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sports 1 Greece
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076548_real-madrid-x-real-sociedad.png" group-title="Soccer", Nova Sports 1 Greece
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-631.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Premium 1 Serbia
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076548_real-madrid-x-real-sociedad.png" group-title="Soccer", Arena Premium 1 Serbia
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-134.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV4 Sportkanalen
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076548_real-madrid-x-real-sociedad.png" group-title="Soccer", TV4 Sportkanalen
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-707.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 3 Malaysia
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076548_real-madrid-x-real-sociedad.png" group-title="Soccer", beIN Sports 3 Malaysia
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-714.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MAX Sport 4 Bulgaria
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076548_real-madrid-x-real-sociedad.png" group-title="Soccer", MAX Sport 4 Bulgaria
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-475.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Brazil
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076548_real-madrid-x-real-sociedad.png" group-title="Soccer", ESPN Brazil
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-81.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Laliga
+#EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076548_real-madrid-x-real-sociedad.png" group-title="Soccer", SuperSport Laliga
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-415.php
 
 #EXTINF:-1 tvg-id="Ukraine Premier League - Dynamo Kyiv vs Kolos Kovalivka" tvg-name="17:00 Ukraine Premier League : Dynamo Kyiv vs Kolos Kovalivka - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", UPLTV
@@ -1755,310 +1077,310 @@ https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="Austria - Football Bundesliga - Sturm Graz vs Wolfsberger AC" tvg-name="17:00 Austria - Football Bundesliga : Sturm Graz vs Wolfsberger AC - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 4 Serbia
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-581.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Zona IT
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076474_bologna-x-genoa.png" group-title="Soccer", DAZN Zona IT
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-877.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Paramount+
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076474_bologna-x-genoa.png" group-title="Soccer", Paramount+
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-106.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", CBS Sports Network
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076474_bologna-x-genoa.png" group-title="Soccer", CBS Sports Network
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-308.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport TV2 Portugal
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076474_bologna-x-genoa.png" group-title="Soccer", Sport TV2 Portugal
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-74.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Eleven Sports 2 Poland
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076474_bologna-x-genoa.png" group-title="Soccer", Eleven Sports 2 Poland
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-72.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MATCH! Futbol 1 Russia
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076474_bologna-x-genoa.png" group-title="Soccer", MATCH! Futbol 1 Russia
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-136.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN2 Mexico
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076474_bologna-x-genoa.png" group-title="Soccer", ESPN2 Mexico
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-926.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cytavision Sports 6 Cyprus
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076474_bologna-x-genoa.png" group-title="Soccer", Cytavision Sports 6 Cyprus
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-916.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Premium 3 Serbia
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076474_bologna-x-genoa.png" group-title="Soccer", Arena Premium 3 Serbia
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-139.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cosmote Sport 1 Greece
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076474_bologna-x-genoa.png" group-title="Soccer", Cosmote Sport 1 Greece
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-622.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 4 Croatia
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076474_bologna-x-genoa.png" group-title="Soccer", Arena Sport 4 Croatia
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-580.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MAX Sport 3 Bulgaria
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076474_bologna-x-genoa.png" group-title="Soccer", MAX Sport 3 Bulgaria
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-474.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN2 Argentina
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076474_bologna-x-genoa.png" group-title="Soccer", ESPN2 Argentina
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-150.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV4 Fotball
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076474_bologna-x-genoa.png" group-title="Soccer", TV4 Fotball
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-747.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Football
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076474_bologna-x-genoa.png" group-title="Soccer", SuperSport Football
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-56.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", M+ LALIGA TV
+#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076361_legans-x-real-valladolid.png" group-title="Soccer", M+ LALIGA TV
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-84.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN+ USA
+#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076361_legans-x-real-valladolid.png" group-title="Soccer", ESPN+ USA
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-109.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Eleven 2 Portugal
+#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076361_legans-x-real-valladolid.png" group-title="Soccer", DAZN Eleven 2 Portugal
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-456.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Eleven Sports 3 Poland
+#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076361_legans-x-real-valladolid.png" group-title="Soccer", Eleven Sports 3 Poland
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-428.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Now Sports 3
+#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076361_legans-x-real-valladolid.png" group-title="Soccer", Now Sports 3
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-26.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MAX 6 France
+#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076361_legans-x-real-valladolid.png" group-title="Soccer", beIN Sports MAX 6 France
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-496.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MATCH! Futbol 3 Russia
+#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076361_legans-x-real-valladolid.png" group-title="Soccer", MATCH! Futbol 3 Russia
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-138.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV4 Sport Live 2
+#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076361_legans-x-real-valladolid.png" group-title="Soccer", TV4 Sport Live 2
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-704.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 2 Romania
+#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076361_legans-x-real-valladolid.png" group-title="Soccer", Digi Sport 2 Romania
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-401.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sports 1 Greece
+#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076361_legans-x-real-valladolid.png" group-title="Soccer", Nova Sports 1 Greece
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-631.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sports Start Greece
+#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076361_legans-x-real-valladolid.png" group-title="Soccer", Nova Sports Start Greece
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-637.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 3 Malaysia
+#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076361_legans-x-real-valladolid.png" group-title="Soccer", beIN Sports 3 Malaysia
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-714.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Deportes
+#EXTINF:-1 tvg-id="Spain - La Liga - Leganés vs Real Valladolid" tvg-name="18:30 Spain - La Liga : Leganés vs Real Valladolid - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076361_legans-x-real-valladolid.png" group-title="Soccer", ESPN Deportes
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-375.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN LaLiga 2
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076462_espanyol-x-las-palmas.png" group-title="Soccer", DAZN LaLiga 2
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-23.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN+ USA
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076462_espanyol-x-las-palmas.png" group-title="Soccer", ESPN+ USA
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-110.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Eleven 3 Portugal
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076462_espanyol-x-las-palmas.png" group-title="Soccer", DAZN Eleven 3 Portugal
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-457.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Ziggo Sport 2 NL
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076462_espanyol-x-las-palmas.png" group-title="Soccer", Ziggo Sport 2 NL
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-398.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN1 DE
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076462_espanyol-x-las-palmas.png" group-title="Soccer", DAZN1 DE
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-426.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Now Sports 2
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076462_espanyol-x-las-palmas.png" group-title="Soccer", Now Sports 2
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-27.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SportsMax
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076462_espanyol-x-las-palmas.png" group-title="Soccer", SportsMax
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-152.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MATCH! Futbol 2 Russia
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076462_espanyol-x-las-palmas.png" group-title="Soccer", MATCH! Futbol 2 Russia
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-137.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV2 Sport X Denmark
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076462_espanyol-x-las-palmas.png" group-title="Soccer", TV2 Sport X Denmark
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-808.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Premium 2 Serbia
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076462_espanyol-x-las-palmas.png" group-title="Soccer", Arena Premium 2 Serbia
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-135.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 2 Malaysia
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076462_espanyol-x-las-palmas.png" group-title="Soccer", beIN Sports 2 Malaysia
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-713.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MAX 7 France
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076462_espanyol-x-las-palmas.png" group-title="Soccer", beIN Sports MAX 7 France
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-497.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Brazil
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076462_espanyol-x-las-palmas.png" group-title="Soccer", ESPN Brazil
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-81.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV4 Sport Live 1
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076462_espanyol-x-las-palmas.png" group-title="Soccer", TV4 Sport Live 1
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-703.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 4 Romania
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076462_espanyol-x-las-palmas.png" group-title="Soccer", Digi Sport 4 Romania
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-403.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MAX Sport 4 Bulgaria
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076462_espanyol-x-las-palmas.png" group-title="Soccer", MAX Sport 4 Bulgaria
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-475.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Laliga
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076462_espanyol-x-las-palmas.png" group-title="Soccer", SuperSport Laliga
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-415.php
 
 #EXTINF:-1 tvg-id="Canadian Premier League - HFX Wanderers vs Atlético Ottawa" tvg-name="20:00 Canadian Premier League : HFX Wanderers vs Atlético Ottawa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TSN3
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-113.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Zona IT
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076304_milan-x-monza.png" group-title="Soccer", DAZN Zona IT
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-877.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Paramount+
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076304_milan-x-monza.png" group-title="Soccer", Paramount+
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-107.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", CBS Sports Golazo USA
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076304_milan-x-monza.png" group-title="Soccer", CBS Sports Golazo USA
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-910.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport TV3 Portugal
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076304_milan-x-monza.png" group-title="Soccer", Sport TV3 Portugal
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-454.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Eleven Sports 2 Poland
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076304_milan-x-monza.png" group-title="Soccer", Eleven Sports 2 Poland
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-72.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN2 DE
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076304_milan-x-monza.png" group-title="Soccer", DAZN2 DE
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-427.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MATCH! Futbol 1 Russia
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076304_milan-x-monza.png" group-title="Soccer", MATCH! Futbol 1 Russia
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-136.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Premium 2 Serbia
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076304_milan-x-monza.png" group-title="Soccer", Arena Premium 2 Serbia
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-135.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN2 Mexico
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076304_milan-x-monza.png" group-title="Soccer", ESPN2 Mexico
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-926.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cytavision Sports 6 Cyprus
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076304_milan-x-monza.png" group-title="Soccer", Cytavision Sports 6 Cyprus
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-916.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cosmote Sport 2 Greece
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076304_milan-x-monza.png" group-title="Soccer", Cosmote Sport 2 Greece
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-623.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 4 Croatia
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076304_milan-x-monza.png" group-title="Soccer", Arena Sport 4 Croatia
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-580.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV4 Fotball
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076304_milan-x-monza.png" group-title="Soccer", TV4 Fotball
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-747.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MAX Sport 3 Bulgaria
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076304_milan-x-monza.png" group-title="Soccer", MAX Sport 3 Bulgaria
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-474.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN2 Brazil
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076304_milan-x-monza.png" group-title="Soccer", ESPN2 Brazil
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-82.php
 
 #EXTINF:-1 tvg-id="Brazil - Serie B - Athletico-PR vs Athletic Club" tvg-name="21:00 Brazil - Serie B : Athletico-PR vs Athletic Club - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Brazil
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-81.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", M+ LALIGA TV 2
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://skystreaming.stream/content/thumbs/cb306a9cd5bf8e0eabbb3fe78f73f564." group-title="Soccer", M+ LALIGA TV 2
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-8.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN+ USA
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://skystreaming.stream/content/thumbs/cb306a9cd5bf8e0eabbb3fe78f73f564." group-title="Soccer", ESPN+ USA
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-151.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Eleven 2 Portugal
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://skystreaming.stream/content/thumbs/cb306a9cd5bf8e0eabbb3fe78f73f564." group-title="Soccer", DAZN Eleven 2 Portugal
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-456.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", CANAL+ Sport Poland
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://skystreaming.stream/content/thumbs/cb306a9cd5bf8e0eabbb3fe78f73f564." group-title="Soccer", CANAL+ Sport Poland
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-48.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MAX 4 France
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://skystreaming.stream/content/thumbs/cb306a9cd5bf8e0eabbb3fe78f73f564." group-title="Soccer", beIN Sports MAX 4 France
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-494.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SportsMax
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://skystreaming.stream/content/thumbs/cb306a9cd5bf8e0eabbb3fe78f73f564." group-title="Soccer", SportsMax
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-152.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sports 1 Greece
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://skystreaming.stream/content/thumbs/cb306a9cd5bf8e0eabbb3fe78f73f564." group-title="Soccer", Nova Sports 1 Greece
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-631.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV4 Sport Live 2
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://skystreaming.stream/content/thumbs/cb306a9cd5bf8e0eabbb3fe78f73f564." group-title="Soccer", TV4 Sport Live 2
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-704.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 3 Serbia
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://skystreaming.stream/content/thumbs/cb306a9cd5bf8e0eabbb3fe78f73f564." group-title="Soccer", Arena Sport 3 Serbia
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-431.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 4 Romania
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://skystreaming.stream/content/thumbs/cb306a9cd5bf8e0eabbb3fe78f73f564." group-title="Soccer", Digi Sport 4 Romania
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-403.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 3 Malaysia
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://skystreaming.stream/content/thumbs/cb306a9cd5bf8e0eabbb3fe78f73f564." group-title="Soccer", beIN Sports 3 Malaysia
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-714.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Variety 2
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://skystreaming.stream/content/thumbs/cb306a9cd5bf8e0eabbb3fe78f73f564." group-title="Soccer", SuperSport Variety 2
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-417.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", M+ LALIGA TV
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076249_getafe-x-celta-de-vigo.png" group-title="Soccer", M+ LALIGA TV
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-108.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN+ USA
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076249_getafe-x-celta-de-vigo.png" group-title="Soccer", ESPN+ USA
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-153.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Now Sports 2
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076249_getafe-x-celta-de-vigo.png" group-title="Soccer", Now Sports 2
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-27.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Eleven 3 Portugal
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076249_getafe-x-celta-de-vigo.png" group-title="Soccer", DAZN Eleven 3 Portugal
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-457.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Eleven Sports 3 Poland
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076249_getafe-x-celta-de-vigo.png" group-title="Soccer", Eleven Sports 3 Poland
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-428.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 2 France
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076249_getafe-x-celta-de-vigo.png" group-title="Soccer", beIN Sports 2 France
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-117.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Ziggo Sport 2 NL
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076249_getafe-x-celta-de-vigo.png" group-title="Soccer", Ziggo Sport 2 NL
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-398.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MATCH! Futbol 2 Russia
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076249_getafe-x-celta-de-vigo.png" group-title="Soccer", MATCH! Futbol 2 Russia
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-137.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 2 Serbia
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076249_getafe-x-celta-de-vigo.png" group-title="Soccer", Arena Sport 2 Serbia
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-430.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sports Prime Greece
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076249_getafe-x-celta-de-vigo.png" group-title="Soccer", Nova Sports Prime Greece
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-638.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MAX Sport 4 Bulgaria
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076249_getafe-x-celta-de-vigo.png" group-title="Soccer", MAX Sport 4 Bulgaria
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-475.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 2 Croatia
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076249_getafe-x-celta-de-vigo.png" group-title="Soccer", Arena Sport 2 Croatia
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-433.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV4 Sport Live 1
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076249_getafe-x-celta-de-vigo.png" group-title="Soccer", TV4 Sport Live 1
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-703.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 2 Malaysia
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076249_getafe-x-celta-de-vigo.png" group-title="Soccer", beIN Sports 2 Malaysia
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-713.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Variety 3
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076249_getafe-x-celta-de-vigo.png" group-title="Soccer", SuperSport Variety 3
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-418.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN LaLiga
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076259_rayo-vallecano-x-mallorca.png" group-title="Soccer", DAZN LaLiga
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-538.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN+ USA
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076259_rayo-vallecano-x-mallorca.png" group-title="Soccer", ESPN+ USA
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-154.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Now Sports 3
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076259_rayo-vallecano-x-mallorca.png" group-title="Soccer", Now Sports 3
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-26.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Eleven 1 Portugal
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076259_rayo-vallecano-x-mallorca.png" group-title="Soccer", DAZN Eleven 1 Portugal
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-455.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN1 DE
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076259_rayo-vallecano-x-mallorca.png" group-title="Soccer", DAZN1 DE
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-426.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal+ Sport Poland
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076259_rayo-vallecano-x-mallorca.png" group-title="Soccer", Canal+ Sport Poland
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-48.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Ziggo Sport 5 NL
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076259_rayo-vallecano-x-mallorca.png" group-title="Soccer", Ziggo Sport 5 NL
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-383.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MAX 5 France
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076259_rayo-vallecano-x-mallorca.png" group-title="Soccer", beIN Sports MAX 5 France
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-495.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 2 Romania
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076259_rayo-vallecano-x-mallorca.png" group-title="Soccer", Digi Sport 2 Romania
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-401.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 1 Serbia
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076259_rayo-vallecano-x-mallorca.png" group-title="Soccer", Arena Sport 1 Serbia
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-429.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MATCH! Futbol 3 Russia
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076259_rayo-vallecano-x-mallorca.png" group-title="Soccer", MATCH! Futbol 3 Russia
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-138.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sports 2 Greece
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076259_rayo-vallecano-x-mallorca.png" group-title="Soccer", Nova Sports 2 Greece
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-632.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Laliga
+#EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076259_rayo-vallecano-x-mallorca.png" group-title="Soccer", SuperSport Laliga
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-415.php
 
 #EXTINF:-1 tvg-id="Canadian Premier League - Pacific vs Forge" tvg-name="23:00 Canadian Premier League : Pacific vs Forge - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Fox Soccer Plus
