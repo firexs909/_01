@@ -23,3 +23,18 @@ https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="Women's Friendly tournament in Koszalin - Italy vs Netherlands" tvg-name="19:00 Women's Friendly tournament in Koszalin : Italy vs Netherlands - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Rai Sport 1 Italy
 https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-882.php
 
+#EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="17:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Zona IT
+https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-877.php
+
+#EXTINF:-1 tvg-id="DFB Pokal - Arminia Bielefeld vs Stuttgart" tvg-name="19:00 DFB Pokal : Arminia Bielefeld vs Stuttgart - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
+https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-877.php
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="19:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Zona IT
+https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-877.php
+
+#EXTINF:-1 tvg-id="Italy Lega A - Olimpia Milano vs Trento" tvg-name="17:00 Italy Lega A : Olimpia Milano vs Trento - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Eurosport 2 IT
+https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-879.php
+
+#EXTINF:-1 tvg-id="Italy Lega A - BTrieste vs Brescia" tvg-name="19:40 Italy Lega A : BTrieste vs Brescia - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Eurosport 2 IT
+https://nextcloud.mac4.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-879.php
+
